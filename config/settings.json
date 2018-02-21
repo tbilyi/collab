@@ -1,0 +1,17 @@
+{
+    "bd_localhost" : {
+        "host" : "localhost",
+        "user" : "nodcollab",
+        "password" : "",
+        "database" : "collab",
+        "insecureAuth" : "true"
+    },
+    "bd" : {
+        "host" : "admin.devhostopia.com",
+        "user" : "nodcollab",
+        "password" : ",
+        "database" : "collab",
+        "insecureAuth" : "true"
+    }
+}
+
